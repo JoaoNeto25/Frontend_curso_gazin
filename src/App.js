@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Alterando para a branch develop
+          Criando a branch de qa
         </p>
         <a
           className="App-link"
